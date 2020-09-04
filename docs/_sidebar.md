@@ -1,0 +1,12 @@
+
+- [Automation](automation.md)
+- [Career](career.md)
+- [Computer Science](computer-science.md)
+- [Go](go.md)
+- [JavaScript](javascript.md)
+- [Machine Learning](machine-learning.md)
+- [Productivity](productivity.md)
+- [Python](python.md)
+- [UX/UI](ux-ui.md)
+- [VSCode Extensions](vscode-extensions.md)
+- [Web Development](webdev.md)
