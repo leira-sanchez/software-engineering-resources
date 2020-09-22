@@ -1,5 +1,8 @@
 # Computer Science by Language
 
+# Language Agnostic
+
+1. [Big O CheatSheet](https://www.bigocheatsheet.com/)
 # JavaScript
 
 1. [Intro to Algorithms](https://slides.com/bgando/intro-to-algorithms/) by [Bianca Gando](https://twitter.com/BiancaGando)
